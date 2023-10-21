@@ -46,11 +46,12 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
 5. **Client Projects:**
    - Root Cloudex Business Site: [Root Cloudex Business Site](https://rootcloudex-5f6e8.web.app/)
      - Source Code: Private
-   - MridhaTrending: [MridhaTrending](https://shop-nest-b2724.web.app/)
+       
+  <!-- - MridhaTrending: [MridhaTrending](https://shop-nest-b2724.web.app/)
      - Source Code: Private
    - Batter View Admin Login Demo Site
      - Admin Email: userdatabaseinfo@gmail.com
-     - Password: admin@$#123
+     - Password: admin@$#123 -->
 
 **More About Me:**
 - Portfolio: [Portfolio](https://ikramuzzaman-personal-1d9a1.web.app/)
