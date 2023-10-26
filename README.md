@@ -76,18 +76,50 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
    - Technology Use: React.js, Redux, TMDB API, etc.
 
 2. **Nota Corda Music School**
+
+**Why I did this project:** This project is the final assignment for my complete web development course. I served as both the ***designer and developer*** for this project. It took me about 8 days to complete.
+
+**Features of this project:** This project includes several features, including:
+
+- Separate dashboards for users, instructors, and admins.
+- Advanced login and registration authentication systems.
+- Admins can delete any user and can promote any user to instructor or admin.
+- Instructors can add classes or update/delete their added classes.
+- Admin approval is required for adding new instructor classes.
+- Users can only purchase a class once.
+- A payment system is implemented.
+- Dark mode and light mode, among many other features
+
+**What I've learned from this project:** I've learned a lot from this project. I learned how to use MERN stack technology to develop a full-stack web application that works on both the server-side and client-side. I used Node.js with Express.js on the server-side to create the backend, connected it to MongoDB, and created REST APIs. I also handled different dashboards for users, instructors, and admins. I secured REST APIs using JWT. I implemented a payment system using Stripe and an authentication system using Firebase. I also converted the website into dark mode and light mode, among other things.
+
+
    - Link: [Nota Corda Music School](https://summer-camp-school-61659.web.app/)
    - GitHub Repository: [Nota Corda Music School GitHub](https://github.com/ikramuzzaman455173/Nota-corda-music-client-and-server-repo)
    - Login Credentials:
       - Admin, Instructor: **Visit This Project Github Client Repo**
 
-3. **House Hunter**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. **House Hunter**
    - Link: [House Hunter](https://househunter-e3d07.web.app/)
    - GitHub Repository: [House Hunter GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)
    - Login Credentials:
       - Admin, Owner: **Visit This Project Github Client Repo**
 
-4. **Client Projects:**
+5. **Client Projects:**
    - Root Cloudex Business Site: [Root Cloudex Business Site](https://rootcloudex-5f6e8.web.app/)
      - Source Code: Private
        
