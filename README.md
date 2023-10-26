@@ -92,7 +92,6 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
 
 **What I've learned from this project:** I've learned a lot from this project. I learned how to use MERN stack technology to develop a full-stack web application that works on both the server-side and client-side. I used Node.js with Express.js on the server-side to create the backend, connected it to MongoDB, and created REST APIs. I also handled different dashboards for users, instructors, and admins. I secured REST APIs using JWT. I implemented a payment system using Stripe and an authentication system using Firebase. I also converted the website into dark mode and light mode, among other things.
 
-
    - Link: [Nota Corda Music School](https://summer-camp-school-61659.web.app/)
    - GitHub Repository: [Nota Corda Music School GitHub](https://github.com/ikramuzzaman455173/Nota-corda-music-client-and-server-repo)
    - Login Credentials:
@@ -114,6 +113,24 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
 
 
 4. **House Hunter**
+
+**Why I did this project:** This was my first job task that I took very seriously. It was an application for the role of a web development instructor with the title "Programming Hero." I primarily applied for the role of a web development instructor. I ranked fourth out of 294 applicants. I made it to the final round, but the competition was tough. They needed to hire three people, but we were the top four candidates. So, there was a competition among the four of us, and I decided to step back a bit.
+
+**Features of this project:** This project boasts an array of exceptional features, including:
+
+- Firebase-based login and registration authentication system.
+- Separate dashboards for users, house owners, and administrators.
+- Users can purchase a house only once to prevent duplication.
+- Restriction on house owners from buying their own properties.
+- Administrators are restricted from house purchase.
+- Implementation of a payment system.
+- Administrators can delete any user or house owner.
+- Administrators can promote any user or house owner to administrator status.
+- House owners cannot add new properties without admin permission.
+- Advanced house filtering and pagination.
+
+**What I've learned from this project:** This project has been a great learning experience for me. I've learned how to create separate dashboards for users, house owners, and administrators. I've implemented various restrictions, such as preventing house owners from buying their own properties and restricting administrators from making house purchases. I've also developed advanced features like house filtering and pagination. This project has equipped me with valuable skills for web development.
+
    - Link: [House Hunter](https://househunter-e3d07.web.app/)
    - GitHub Repository: [House Hunter GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)
    - Login Credentials:
