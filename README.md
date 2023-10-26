@@ -37,8 +37,8 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
 
 **Projects:**
 
-1. **Movix**
-   
+<h2 align="center">Moviex</h2>
+
 **Why I did this project:** 
 
 - Gain experience with real APIs.
@@ -75,7 +75,7 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
    - GitHub Repository: [Moviex GitHub](https://github.com/ikramuzzaman455173/moviex 'Click to view github repository movix 🐱‍🏍')
    - Technology Use: React.js, Redux, TMDB API, etc.
 
-2. **Nota Corda Music School**
+<h2 align="center">Nota Corda Music School</h2>
 
 **Why I did this project:** This project is the final assignment for my complete web development course. I served as both the ***designer and developer*** for this project. It took me about 8 days to complete.
 
@@ -97,22 +97,7 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
    - Login Credentials:
       - Admin, Instructor: **Visit This Project Github Client Repo**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4. **House Hunter**
+<h2 align="center">House Hunter</h2>
 
 **Why I did this project:** This was my first job task that I took very seriously. It was an application for the role of a web development instructor with the title "Programming Hero." I primarily applied for the role of a web development instructor. I ranked fourth out of 294 applicants. I made it to the final round, but the competition was tough. They needed to hire three people, but we were the top four candidates. So, there was a competition among the four of us, and I decided to step back a bit.
 
@@ -135,11 +120,11 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
    - GitHub Repository: [House Hunter GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)
    - Login Credentials:
       - Admin, Owner: **Visit This Project Github Client Repo**
-
+<!--
 5. **Client Projects:**
    - Root Cloudex Business Site: [Root Cloudex Business Site](https://rootcloudex-5f6e8.web.app/)
      - Source Code: Private
-       
+       -->
   <!-- - MridhaTrending: [MridhaTrending](https://shop-nest-b2724.web.app/)
      - Source Code: Private
    - Batter View Admin Login Demo Site
@@ -147,6 +132,7 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
      - Password: admin@$#123 -->
 
 **More About Me:**
+- **HIghly Recommend:** [Please Visit Best For My All Public & Private Github Repository's](https://github.com/ikramuzzaman455173/my-all-common-github-repository)
 - Portfolio: [Portfolio](https://ikramuzzaman-personal-1d9a1.web.app/)
 - GitHub: [GitHub](https://github.com/ikramuzzaman455173)
 
