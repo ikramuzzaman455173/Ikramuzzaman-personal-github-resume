@@ -94,8 +94,8 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
 
    - Link: [Nota Corda Music School](https://summer-camp-school-61659.web.app/)
    - GitHub Repository: [Nota Corda Music School GitHub](https://github.com/ikramuzzaman455173/Nota-corda-music-client-and-server-repo)
-   - Login Credentials:
-      - Admin, Instructor: **Visit This Project Github Client Repo**
+   - Demo Login Credentials:
+      - Instructor: **Visit This Project Github Client Repo**
 
 <h2 align="center">House Hunter</h2>
 
@@ -118,8 +118,8 @@ I am a highly motivated junior MERN Stack Web Developer with a strong focus on b
 
    - Link: [House Hunter](https://househunter-e3d07.web.app/)
    - GitHub Repository: [House Hunter GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)
-   - Login Credentials:
-      - Admin, Owner: **Visit This Project Github Client Repo**
+   - Demo Login Credentials:
+      - Owner: **Visit This Project Github Client Repo**
 <!--
 5. **Client Projects:**
    - Root Cloudex Business Site: [Root Cloudex Business Site](https://rootcloudex-5f6e8.web.app/)
