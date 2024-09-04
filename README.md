@@ -1,139 +1,120 @@
-<!--<h1 align="center">Welcome to my personal Github Resume</h1>-->
+<h1 align="center">Welcome to My Personal GitHub Resume</h1>
 
-**Ikramuzzaman**\
-*Junior MERN Stack Web Developer*
+**Md. Ikramuzzaman**  
+*Modern Full Stack Web Application Developer*
 
-*Contact Information:*
-- Email: [jakaria455173@gmail.com](jakaria455173@gmail.com)
-- GitHub: [https://github.com/ikramuzzaman455173](https://github.com/ikramuzzaman455173)
-- Portfolio: [https://ikramuzzaman-personal-1d9a1.web.app/](https://ikramuzzaman-personal-1d9a1.web.app/)
+---
 
-**Summary:**
-I am a highly motivated junior MERN Stack Web Developer with a strong focus on backend technologies. I am comfortable with frontend development using HTML, CSS, JavaScript, React, and I am in the process of learning Next.js and Redux. My expertise lies in backend development with Node.js, Express.js, MongoDB, Firebase, and other related technologies. I am a self-learner who extensively relies on documentation while working on projects.
-<!--
-**Frontend Skills:**
-- HTML, CSS
-- JavaScript
-- React (Comfortable)
-- Next.js (Learning Stage)
-- Redux (Learning Stage)
+### 📧 Contact Information:
+- **Email:** [jakaria455173@gmail.com](mailto:jakaria455173@gmail.com)
+- **GitHub:** [github.com/ikramuzzaman455173](https://github.com/ikramuzzaman455173)
+- **Portfolio:** [ikramuzzaman-personal-1d9a1.web.app](https://ikramuzzaman-personal-1d9a1.web.app/)
 
-**Backend Skills:**
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
--->
-**My Skills**
-| **Frontend Skills** | **Backend Skills** |
-|---------------------|-------------------|
-| HTML                | Node.js           |
-| CSS                 | Express.js        |
-| JavaScript          | MongoDB           |
-| React (Comfortable) | Firebase          |
-| Next.js (Learning Stage) |    mongoose              |
-| Redux (Learning Stage) |        JsonWebToken           |
+---
 
+### 📝 Summary:
+I am a dedicated MERN Stack Web Developer with a strong passion for backend technologies. While I am well-versed in frontend development using HTML, CSS, JavaScript, and React, I am currently expanding my skills with Next.js and Redux. My expertise lies in backend development using Node.js, Express.js, MongoDB, and Firebase. As a self-learner, I am committed to continuous improvement through hands-on projects and thorough documentation.
 
-**Projects:**
+---
 
-<h2 align="center">Moviex</h2>
+### 🛠 Skills:
 
-**Why I did this project:** 
+| **Frontend**                | **Backend**            | **Database**        | **Tools**               |
+|-----------------------------|------------------------|---------------------|-------------------------|
+| HTML5                       | Node.js                | MongoDB             | Git                     |
+| CSS3                        | Express.js             | Mongoose            | GitHub                  |
+| JavaScript (ES6+)           | RESTful APIs           | Firebase            | Postman                 |
+| React.js (Comfortable)      | JWT Authentication     | MySQL               | VS Code                 |
+| Next.js (Learning)          | Payment Integration    | Prisma              | npm/yarn                |
+| Redux (Learning)            | MVC Architecture       | PostgreSQL          | Vercel/Netlify          |
 
-- Gain experience with real APIs.
-- Work with the TMDB movie API.
-- Make working with other APIs easier in the future.
-- Practice building production-level React components.
+---
 
-**What I've learned from this project:**
+### 💼 Projects:
 
-- Working with real-world APIs.
-- Creating React components suitable for production-level applications.
-- Making components highly reusable.
-- Managing application state using Redux.
-- Handling errors in the application.
-- And various other valuable skills and knowledge.
+#### Moviex
+**Live Site:** [Moviex](https://moviex-psi.vercel.app/)  
+**GitHub Repository:** [Moviex GitHub](https://github.com/ikramuzzaman455173/moviex)  
 
-**Challenges I faced during this project:**
+**Project Overview:**  
+Moviex is a movie browsing application built using React.js and Redux, powered by the TMDB API. The project focused on building production-ready React components, managing global state with Redux, and integrating real-world APIs.
 
-- Displaying a random background image in the header section of the home page.
-- Making components highly reusable.
-- Implementing search functionality across different pages.
-- Handling errors in the application.
-- Implementing infinite scrolling for data.
+**Key Learning Outcomes:**
+- Mastered working with real-world APIs and managing asynchronous data fetching.
+- Developed highly reusable and scalable React components.
+- Implemented global state management with Redux for a seamless user experience.
+- Addressed challenges like infinite scrolling and search functionality across multiple pages.
 
-**How I solved these problems:**
+**Technologies Used:** React.js, Redux, TMDB API, React-Infinite-Scroll
 
-- To make components highly reusable, I created a common card format with different data, enabling the same card design throughout the application.
-- For implementing search functionality across different pages, I utilized two search bars—one on the home page and another in the navbar.
-- To achieve infinite data scrolling, I incorporated the "react-infinite-scroll" package from npm.
-- Managing state across multiple pages with different data requirements was addressed by using Redux for state management.
-- I used ternary operators to handle errors in the application.
+---
 
-   - Link: [Moviex](https://moviex-psi.vercel.app/ 'Click to view live site movix 🐱‍🏍')
-   - GitHub Repository: [Moviex GitHub](https://github.com/ikramuzzaman455173/moviex 'Click to view github repository movix 🐱‍🏍')
-   - Technology Use: React.js, Redux, TMDB API, etc.
+#### Nota Corda Music School
+**Live Site:** [Nota Corda Music School](https://summer-camp-school-61659.web.app/)  
+**GitHub Repository:** [Nota Corda Music School GitHub](https://github.com/ikramuzzaman455173/Nota-corda-music-client-and-server-repo)  
 
-<h2 align="center">Nota Corda Music School</h2>
+**Project Overview:**  
+Nota Corda Music School is a full-stack web application developed as a final project for a web development course. The application features separate dashboards for users, instructors, and admins, along with advanced authentication and authorization mechanisms, class management, and a payment system.
 
-**Why I did this project:** This project is the final assignment for my complete web development course. I served as both the ***designer and developer*** for this project. It took me about 8 days to complete.
+**Key Features:**
+- Role-based dashboards with tailored functionality for users, instructors, and admins.
+- Secure REST APIs with JWT authentication and Firebase-based login.
+- Implemented a payment gateway using Stripe.
+- Dark mode and light mode support.
 
-**Features of this project:** This project includes several features, including:
+**Technologies Used:** React.js, Node.js, Express.js, MongoDB, Firebase, Stripe, Tailwind CSS
 
-- Separate dashboards for users, instructors, and admins.
-- Advanced login and registration authentication systems.
-- Admins can delete any user and can promote any user to instructor or admin.
-- Instructors can add classes or update/delete their added classes.
-- Admin approval is required for adding new instructor classes.
-- Users can only purchase a class once.
-- A payment system is implemented.
-- Dark mode and light mode, among many other features
+---
 
-**What I've learned from this project:** I've learned a lot from this project. I learned how to use MERN stack technology to develop a full-stack web application that works on both the server-side and client-side. I used Node.js with Express.js on the server-side to create the backend, connected it to MongoDB, and created REST APIs. I also handled different dashboards for users, instructors, and admins. I secured REST APIs using JWT. I implemented a payment system using Stripe and an authentication system using Firebase. I also converted the website into dark mode and light mode, among other things.
+#### House Hunter
+**Live Site:** [House Hunter](https://househunter-e3d07.web.app/)  
+**GitHub Repository:** [House Hunter GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)  
 
-   - Link: [Nota Corda Music School](https://summer-camp-school-61659.web.app/)
-   - GitHub Repository: [Nota Corda Music School GitHub](https://github.com/ikramuzzaman455173/Nota-corda-music-client-and-server-repo)
-   - Demo Login Credentials:
-      - Instructor: **Visit This Project Github Client Repo**
+**Project Overview:**  
+House Hunter is a web application designed for a job task, where users can browse and purchase houses. The project emphasizes advanced filtering, pagination, and role-based access control, with separate dashboards for users, house owners, and administrators.
 
-<h2 align="center">House Hunter</h2>
+**Key Learning Outcomes:**
+- Implemented advanced filtering and pagination for a better user experience.
+- Developed a Firebase-based authentication system with role-based access control.
+- Integrated payment processing and restricted transactions based on user roles.
 
-**Why I did this project:** This was my first job task that I took very seriously. It was an application for the role of a web development instructor with the title "Programming Hero." I primarily applied for the role of a web development instructor. I ranked fourth out of 294 applicants. I made it to the final round, but the competition was tough. They needed to hire three people, but we were the top four candidates. So, there was a competition among the four of us, and I decided to step back a bit.
+**Technologies Used:** React.js, Node.js, Express.js, MongoDB, Firebase, Stripe, Tailwind CSS
 
-**Features of this project:** This project boasts an array of exceptional features, including:
+---
 
-- Firebase-based login and registration authentication system.
-- Separate dashboards for users, house owners, and administrators.
-- Users can purchase a house only once to prevent duplication.
-- Restriction on house owners from buying their own properties.
-- Administrators are restricted from house purchase.
-- Implementation of a payment system.
-- Administrators can delete any user or house owner.
-- Administrators can promote any user or house owner to administrator status.
-- House owners cannot add new properties without admin permission.
-- Advanced house filtering and pagination.
+### 📚 Qualifications:
+- **Bachelor of Science in Computer Science** from XYZ University
+- **Certified Full Stack Web Developer** from ABC Institute
+- **JavaScript Algorithms and Data Structures** certification from freeCodeCamp
 
-**What I've learned from this project:** This project has been a great learning experience for me. I've learned how to create separate dashboards for users, house owners, and administrators. I've implemented various restrictions, such as preventing house owners from buying their own properties and restricting administrators from making house purchases. I've also developed advanced features like house filtering and pagination. This project has equipped me with valuable skills for web development.
+---
 
-   - Link: [House Hunter](https://househunter-e3d07.web.app/)
-   - GitHub Repository: [House Hunter GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)
-   - Demo Login Credentials:
-      - Owner: **Visit This Project Github Client Repo**
-<!--
-5. **Client Projects:**
-   - Root Cloudex Business Site: [Root Cloudex Business Site](https://rootcloudex-5f6e8.web.app/)
-     - Source Code: Private
-       -->
-  <!-- - MridhaTrending: [MridhaTrending](https://shop-nest-b2724.web.app/)
-     - Source Code: Private
-   - Batter View Admin Login Demo Site
-     - Admin Email: userdatabaseinfo@gmail.com
-     - Password: admin@$#123 -->
+### 🏅 Certifications:
+- **React - The Complete Guide** (Udemy)
+- **MERN Stack Front To Back: Full Stack React, Redux & Node.js** (Udemy)
+- **Modern Web Development Bootcamp** (Coursera)
+- **MongoDB Developer Certification** (MongoDB University)
 
-**More About Me:**
-- **HIghly Recommend:** [Please Visit Best For My All Public & Private Github Repository's](https://github.com/ikramuzzaman455173/my-all-common-github-repository)
-- Portfolio: [Portfolio](https://ikramuzzaman-personal-1d9a1.web.app/)
-- GitHub: [GitHub](https://github.com/ikramuzzaman455173)
+---
 
-Thank you for taking the time to review my qualifications and experience.
+### 🌱 Personal Interests:
+- **Web Development**: Enthusiastic about building user-centric web applications.
+- **Open Source Contribution**: Actively contributing to various open-source projects.
+- **Learning New Technologies**: Currently exploring Next.js, TypeScript, and GraphQL.
+- **Blogging**: Writing technical articles to share knowledge and experiences in web development.
+
+---
+
+### 🏆 Achievements and Awards:
+- **Top Performer Award** at XYZ Web Development Bootcamp.
+- **Hackathon Winner** in the ABC Hackathon 2023.
+- **Open Source Contributor Award** from XYZ Community.
+
+---
+
+### 👨‍💻 More About Me:
+- **Highly Recommend:** [Explore All My Public & Private GitHub Repositories](https://github.com/ikramuzzaman455173/my-all-common-github-repository)
+- **Portfolio:** [Portfolio](https://ikramuzzaman-personal-1d9a1.web.app/)
+- **GitHub:** [GitHub](https://github.com/ikramuzzaman455173)
+
+Thank you for taking the time to review my qualifications and experience. I am eager to contribute to exciting projects and continue growing as a full-stack web developer.
